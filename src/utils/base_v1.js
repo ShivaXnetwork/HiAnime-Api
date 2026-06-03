@@ -1,1 +1,1 @@
-export const v1_base_url = "anikototv.to";
+export const v1_base_url = "hianime.cv";
